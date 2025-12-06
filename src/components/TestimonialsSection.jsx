@@ -8,21 +8,21 @@ export default function TestimonialsSection() {
       role: "Retail Partner",
       comment:
         "MyPayLite transformed my business — instant payouts, easy onboarding, and excellent support!",
-      avatar: "/images/avatar1.png",
+      avatar: "/images/avatar1.svg",
     },
     {
       name: "Priya Sharma",
       role: "Retail Partner",
       comment:
         "Seamless DMT and AEPS services. Truly a game-changer for my retail operations.",
-      avatar: "/images/avatar2.png",
+      avatar: "/images/avatar2.svg",
     },
     {
       name: "Anil Verma",
       role: "Retail Partner",
       comment:
         "Bill payments & recharges made simple. Loved the intuitive dashboard!",
-      avatar: "/images/avatar3.png",
+      avatar: "/images/avatar3.svg",
     },
   ];
 
